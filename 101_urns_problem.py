@@ -76,4 +76,3 @@ diffUrnProb = diffUrnResults.count(True) / 100000
 
 print("same urn: ", sameUrnProb)
 print("different urn: ", diffUrnProb)
-print("# of trials: ", numTrials)

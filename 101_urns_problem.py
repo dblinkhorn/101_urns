@@ -7,7 +7,7 @@ def createUrns():
     urnsCount = 101
 
     for urnIndex in range(urnsCount):
-        urns.append({"red": urnIndex, "green": 100 - urnIndex})
+        urns.append({"red": 100 - urnIndex, "green": urnIndex})
 
     return urns
 

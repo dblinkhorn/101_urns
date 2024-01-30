@@ -8,7 +8,7 @@
 > - (b) Pick from different urns
 > - (c) Doesn't matter
 
-credit: [post](https://twitter.com/littmath/status/1751714039149867252) by Daniel Litt ([@littmath])(https://twitter.com/littmath)
+credit: [post](https://twitter.com/littmath/status/1751714039149867252) by Daniel Litt ([@littmath](https://twitter.com/littmath))
 
 This script performs 100,000 trials of option (a), and 100,000 trials for option (b).
 It prints the probability that each option will result in drawing matching balls.
